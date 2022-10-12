@@ -1,0 +1,2 @@
+python sampler.py
+pause
