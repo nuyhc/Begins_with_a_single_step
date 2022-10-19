@@ -1,19 +1,3 @@
----
-layout: single
-title: Seaborn 시각화 튜토리얼
-date: 2022-05-15T10:32:52.239Z
-
-categories:
-  - DataScience
-tags:
-  - DataScience
-  - Seaborn
-  - Tutorial
-
-toc: true
-toc_sticky: true
----
-
 # Seaborn 시각화 튜토리얼
 
 ## 1. Seaborn
