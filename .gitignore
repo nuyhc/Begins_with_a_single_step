@@ -6,3 +6,10 @@
 *.csv
 *.xlsx
 *.txt
+
+00_Sampler/
+01_Python_Basic/
+02_Markdown_Basic/
+03_Pandas&시각화/
+04_ML_CLF/
+05_ML_REG/
