@@ -27,8 +27,8 @@
 | 데이터 크기 다루기 (10/17 ~ 18) | GIT/GITHUB (기본적인 버전 관리까지만) | V |
 | 머신러닝 기본 (10/24 ~ 26) | Pandas, Seaborn, Plotly 등 (자료 제공) | V |
 | 머신러닝 피처 엔지니어링 (10/31 ~ 11/2) | 머신러닝 - 분류 | V |
-| 머신러닝 심화 (11/7 ~ 9) | 머신러닝 - 회귀 | - |
-| 머신러닝 심화 (11/14 ~ 16) | 머신러닝 - 튜닝 | - |
+| 머신러닝 심화 (11/7 ~ 9) | 머신러닝 - 회귀 | V |
+| 머신러닝 심화 (11/14 ~ 16) | 머신러닝 - 튜닝 | PyCaret,Wandb |
 | DNN (11/21 ~ 23) | 딥러닝 - DNN | - |
 | CNN (11/28 ~ 30) | 딥러닝 - CNN | - |
 | RNN (12/5 ~ 7) | TA/NLP, 딥러닝 - RNN | - |
@@ -42,8 +42,8 @@
 ### The Walkers
 | 강기화 | 구자현 | 김영민A | 김지현 | 문영운 | 박상우 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src='https://avatars.githubusercontent.com/u/115862312?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/87001749?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/97427886?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/102247923?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/116019563?v=4' height=80 width=80></img> | <img src='' height=80 width=80></img> |
-| <a href="https://github.com/gihwa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/wumusill"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/zeromin1997"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/smearth"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/YeonGun0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href=""><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
+| <img src='https://avatars.githubusercontent.com/u/115862312?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/87001749?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/97427886?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/102247923?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/116019563?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/99530946?v=4' height=80 width=80></img> |
+| <a href="https://github.com/gihwa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/wumusill"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/zeromin1997"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/smearth"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/YeonGun0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/holicsholics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
 
 
 
