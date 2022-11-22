@@ -40,10 +40,10 @@
 - [파이썬 기초 | 점프 투 파이썬](https://wikidocs.net/book/1)
 
 ### The Walkers
-| 강기화 | 구자현 | 김영민A | 김지현 | 문영운 | 박상우 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src='https://avatars.githubusercontent.com/u/115862312?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/87001749?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/97427886?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/102247923?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/116019563?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/99530946?v=4' height=80 width=80></img> |
-| <a href="https://github.com/gihwa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/wumusill"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/zeromin1997"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/smearth"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/YeonGun0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/holicsholics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
+| 구자현 | 김영민A | 김지현 | 문영운 | 박상우 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src='https://avatars.githubusercontent.com/u/87001749?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/97427886?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/102247923?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/116019563?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/99530946?v=4' height=80 width=80></img> |
+| <a href="https://github.com/wumusill"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/zeromin1997"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/smearth"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/YeonGun0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/holicsholics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
 
 
 
