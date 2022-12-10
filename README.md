@@ -32,7 +32,7 @@
 | DNN (11/21 ~ 23) | 딥러닝 - DNN | 휴강 (본수업 진도 밀림) |
 | CNN (11/28 ~ 30) | 딥러닝 - CNN | DNN |
 | RNN (12/5 ~ 7) | TA/NLP, 딥러닝 - RNN | CNN |
-| 비지도 학습, 군집화와 비즈니스 데이터 분석(12/12 ~ 14) | 군집화 | - |
+| 비지도 학습, 군집화와 비즈니스 데이터 분석(12/12 ~ 14) | 군집화 | TA/RNN |
 | 추천 시스템과 시계열 분석 (12/19 ~ 21) | 추천 시스템과 시계열 분석 | - |
 | - | 추가 | - |
 
@@ -41,17 +41,17 @@
 - [파이썬 기초 | 점프 투 파이썬](https://wikidocs.net/book/1)
 
 ### The Walkers
-| 구자현 | 김지현 | 문영운 | 박상우 | |
-| :---: | :---: | :---: | :---: | :---: |
+| 구자현 | 김지현 | 문영운 | 박상우 |
+| :---: | :---: | :---: | :---: |
 | <img src='https://avatars.githubusercontent.com/u/87001749?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/102247923?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/116019563?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/99530946?v=4' height=80 width=80></img> |
-| <a href="https://github.com/wumusill"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/zeromin1997"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/YeonGun0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/holicsholics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
+| <a href="https://github.com/wumusill"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/smearth"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/YeonGun0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/holicsholics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
 
 
 
-|박예령 | 박혜민 | 박혜정 | 성종희 | 유준혁 | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src='https://avatars.githubusercontent.com/u/112061592?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115875669?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/114651909?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/75656845?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115910833?v=4' height=80 width=80></img> |
-| <a href="https://github.com/hi-Heidi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/aimaimee/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/dongyeopseong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/jhsung0607"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/junstar21/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
+|박예령 | 박혜민 | 박혜정 | 성종희 | 유준혁 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src='https://avatars.githubusercontent.com/u/112061592?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115875669?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115684898?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/75656845?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115910833?v=4' height=80 width=80></img> |
+| <a href="https://github.com/hi-Heidi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/aimaimee/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/KellyHyeJungPark"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/jhsung0607"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/junstar21/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
 
 
 
