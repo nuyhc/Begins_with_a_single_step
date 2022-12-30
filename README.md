@@ -41,10 +41,10 @@
 - [파이썬 기초 | 점프 투 파이썬](https://wikidocs.net/book/1)
 
 ### The Walkers
-| 구자현 | 김지현 | 문영운 | 박상우 |
-| :---: | :---: | :---: | :---: |
-| <img src='https://avatars.githubusercontent.com/u/87001749?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/102247923?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/116019563?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/99530946?v=4' height=80 width=80></img> |
-| <a href="https://github.com/wumusill"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/smearth"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/YeonGun0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/holicsholics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
+| 구자현 | 김지현 | 문영운 | 박상우 | 정수윤 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src='https://avatars.githubusercontent.com/u/87001749?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/102247923?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/116019563?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/99530946?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115914215?v=4' height=80 width=80></img> |
+| <a href="https://github.com/wumusill"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/smearth"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/YeonGun0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/holicsholics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/jeongsooyoon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
 
 
 
@@ -55,10 +55,10 @@
 
 
 
-| 이선오| 이영빈 | 이정은 | 이채은 | 이혜빈 | 정수윤 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src='https://avatars.githubusercontent.com/u/115915544?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115921625?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/78216102?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/89587848?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115577097?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115914215?v=4' height=80 width=80></img> |
-| <a href="https://github.com/seonseono"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/Y0ungbinLEE"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/LJEDD2"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/BnBear123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/dkssudgb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/jeongsooyoon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
+| 이선오| 이영빈 | 이정은 | 이채은 | 이혜빈 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src='https://avatars.githubusercontent.com/u/115915544?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115921625?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/78216102?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/89587848?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/115577097?v=4' height=80 width=80></img> |
+| <a href="https://github.com/seonseono"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/Y0ungbinLEE"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/LJEDD2"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/BnBear123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/dkssudgb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
 
 
 
